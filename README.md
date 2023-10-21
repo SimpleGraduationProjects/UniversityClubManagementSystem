@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/mybatis-5.x-yellow.svg"/>
 </p>
 
-演示视频: []()
+演示视频: [https://www.bilibili.com/video/BV1Mu4y1W7Zf/?vd_source=70cee780bf953af081327c6037812e37](https://www.bilibili.com/video/BV1Mu4y1W7Zf/?vd_source=70cee780bf953af081327c6037812e37)
 
 ## 简介
 
